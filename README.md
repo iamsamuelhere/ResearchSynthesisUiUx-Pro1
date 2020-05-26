@@ -11,3 +11,7 @@ Research Synthesis,Research plans, Research Report for UiUx Project
 6.High Fidelity.<br/>
 7.User testing.<br/>
 8.Iterate over.<br/>
+
+![](https://github.com/iamsamuelhere/ResearchSynthesisUiUx-Project1/blob/master/1.png)<br />
+![](https://github.com/iamsamuelhere/ResearchSynthesisUiUx-Project1/blob/master/2.png)<br />
+
